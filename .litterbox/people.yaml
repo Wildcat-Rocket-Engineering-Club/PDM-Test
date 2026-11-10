@@ -14,5 +14,14 @@ people:
   access: owner
   roles: []
   active: true
+- id: doug
+  name: Doug
+  email: dsheppard1@arizona.edu
+  host_names:
+  - dsheppard2
+  access: admin
+  roles:
+  - Chief
+  active: true
 superuser_roles:
 - Chief
