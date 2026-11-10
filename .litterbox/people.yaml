@@ -1,0 +1,18 @@
+roles:
+- Responsible Engineer
+- Manufacturing
+- Quality
+- Analysis
+- Manager
+- Chief
+people:
+- id: carlos-nova
+  name: Carlos-Nova
+  email: cnieves@arizona.edu
+  host_names:
+  - Carlos-Nova
+  access: owner
+  roles: []
+  active: true
+superuser_roles:
+- Chief
